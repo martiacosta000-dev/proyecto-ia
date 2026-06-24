@@ -22,7 +22,7 @@ body{
 header{
     background:
     linear-gradient(rgba(0,40,70,0.7), rgba(0,120,180,0.7)),
-    url("img/robot.jpg");
+    url("../assets/imagenes/robot.jpg");
 
     background-size: cover;
     background-position: center;
